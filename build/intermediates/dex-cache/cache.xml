@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/julio/Downloads/flappy-hermelin-master/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a46456d6762421227a87f946a4ceb50ddf83dcb5">
+        <dex dex="/Users/julio/Downloads/flappy-hermelin-master/android/build/intermediates/pre-dexed/debug/core-1.0_a69d7ec1fad1f80ea5b364cdbf4cebaa59355cbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julio/.gradle/caches/modules-2/files-2.1/com.badlogicgames.box2dlights/box2dlights/1.4/3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd/box2dlights-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="/Users/julio/Downloads/flappy-hermelin-master/android/build/intermediates/pre-dexed/debug/box2dlights-1.4_6f272c99648ac18936275e05741e869f4c898f1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julio/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.9.6/c249ef4060a4fada952f278455c8f7b9cba3c18a/gdx-box2d-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c249ef4060a4fada952f278455c8f7b9cba3c18a">
+        <dex dex="/Users/julio/Downloads/flappy-hermelin-master/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.9.6_f6557df984890d96cab1c436eecff5d11025dc48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julio/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-freetype/1.9.6/69187cc3c8062f191df435b43671b0e5ffcbf353/gdx-freetype-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69187cc3c8062f191df435b43671b0e5ffcbf353">
+        <dex dex="/Users/julio/Downloads/flappy-hermelin-master/android/build/intermediates/pre-dexed/debug/gdx-freetype-1.9.6_9772ca76b31d0b8384fbcf7f612afd2fa85ef4e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julio/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.9.6/57c2831c870743712b808384187ea856e541878f/gdx-backend-android-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="57c2831c870743712b808384187ea856e541878f">
+        <dex dex="/Users/julio/Downloads/flappy-hermelin-master/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.9.6_b4a335760a005ab0b0a19417d55138890bd26ea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/julio/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.9.6/47d1e9b890e364ec28f128e9bb3b9a12a94c164/gdx-1.9.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="047d1e9b890e364ec28f128e9bb3b9a12a94c164">
+        <dex dex="/Users/julio/Downloads/flappy-hermelin-master/android/build/intermediates/pre-dexed/debug/gdx-1.9.6_091d3b6831ee07ed2ccfb9edf78e12101786347c.jar" />
+    </item>
+
+</items>

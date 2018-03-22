@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/julio/Downloads/Ferror/android/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
+        "source": "/Users/julio/Downloads/Ferror/android/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/julio/Downloads/flappy-hermelin-master/android/build/intermediates/res/merged/debug/drawable-xxxhdpi/ic_launcher.png",
+        "source": "/Users/julio/Downloads/flappy-hermelin-master/android/res/drawable-xxxhdpi/ic_launcher.png"
+    }
+]
